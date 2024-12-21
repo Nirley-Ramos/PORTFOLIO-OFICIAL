@@ -1,0 +1,11 @@
+@media screen and (max-width: 900px){
+    header .menu-desktop, header .btn-contato{
+        display: none;
+    }
+}
+
+@media screen and (max-width: 878px){
+    header .menu-desktop, header .btn-contato{
+        display: none;
+    }
+}
