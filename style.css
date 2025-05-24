@@ -285,6 +285,12 @@ section.sobre .flex{
     transition: .2s;
 }
 
+section.sobre.interface.flex .img-sobre {
+    border-radius: 10%;
+    cursor: pointer;
+    margin: 0 5px;
+    border: none;
+}
 
 
 
